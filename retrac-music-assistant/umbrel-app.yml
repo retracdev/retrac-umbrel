@@ -2,7 +2,7 @@ manifestVersion: 1
 id: retrac-music-assistant
 name: Music Assistant
 tagline: Your Music On Umbrel
-icon: https://avatars.githubusercontent.com/u/71128003?s=48&v=4
+icon: https://github.com/retracdev/retrac-umbrel/blob/5328a3bae23114fc79a3c8281c1d35bc4ae962cc/retrac-music-assistant/transparent-logo.png?raw=true
 category: media
 version: "1.0.0"
 port: 8095
