@@ -2,7 +2,7 @@ manifestVersion: 1
 id: retrac-music-assistant
 name: Music Assistant
 tagline: Music Assistant on Umbrel
-icon: https://imgur.com/a/s4veeSg
+icon: https://imgur.com/a/s4veeSg.png
 category: Music
 version: "1.0.0"
 port: 8095
@@ -16,7 +16,7 @@ submission: https://github.com/retrac-umbrel/retrac-music-assistant
 repo: https://github.com/retracdev/retrac-umbrel
 support: https://github.com/retracdev/retrac-umbrel
 gallery:
-  - https://imgur.com/a/tLv6P2B
+  - https://imgur.com/a/tLv6P2B.png
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
