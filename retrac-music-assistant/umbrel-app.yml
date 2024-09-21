@@ -1,24 +1,29 @@
 manifestVersion: 1
 id: retrac-music-assistant
 name: Music Assistant
-tagline: Your Music On Umbrel
-icon: https://github.com/retracdev/retrac-umbrel/blob/5328a3bae23114fc79a3c8281c1d35bc4ae962cc/retrac-music-assistant/transparent-logo.png?raw=true
-category: media
+tagline: Replace this tagline with your app's tagline
+icon: https://svgur.com/i/mvA.svg
+category: Development
 version: "1.0.0"
-port: 8095
+port: 4000
 description: >-
-Music Assistant is a music library manager for your offline and online music sources which can easily stream your favourite music to a wide range of supported players and be combined with the power of Home Assistant!
+  Add your app's description here.
 
-developer: Music Assistant
-website: https://music-assistant.io/
-submitter: Retrac
-submission: https://github.com/retracdev/retrac-app-store/retrac-music-assistant
-repo: https://github.com/retracdev/retrac-app-store
-support: https://github.com/retracdev/retrac-app-store
+
+  You can also add newlines!
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://imgur.com/a/9hYn8Y0
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  
+  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
