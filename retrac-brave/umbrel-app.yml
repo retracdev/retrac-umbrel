@@ -1,1 +1,25 @@
+manifestVersion: 1
+id: retrac-brave
+name: Brave
+tagline: The browser that puts you first
+icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
+category: Browser
+version: "v1.70.117"
+port: 443
+description: >-
+ Brave is available as a fast, free, secure web browser for your mobile devices. Complete with a built-in ad blocker that prevents tracking, and optimized for mobile data and battery life savings.
 
+developer: Brave
+website: https://brave.com/
+submitter: Retrac
+submission: https://github.com/retrac-umbrel/retrac-brave
+repo: https://github.com/retracdev/retrac-umbrel
+support: https://github.com/retracdev/retrac-umbrel
+gallery:
+  - https://i.imgur.com/y2eaQ89.png
+releaseNotes: >-
+  To see whats new, head to https://brave.com/latest/.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
