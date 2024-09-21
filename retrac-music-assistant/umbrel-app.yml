@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: retrac-music-assistant
 name: Music Assistant
-tagline: Replace this tagline with your app's tagline
+tagline: Music Assistant on Umbrel
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
