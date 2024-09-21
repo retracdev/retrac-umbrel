@@ -17,6 +17,7 @@ repo: https://github.com/retracdev/retrac-umbrel
 support: https://github.com/retracdev/retrac-umbrel
 gallery:
   - https://i.imgur.com/ph4ofar.png
+  - https://music-assistant.io/assets/MA_banner.png
 releaseNotes: >-
   To see whats new, head to releases on the Music Assistant repo.
 dependencies: []
