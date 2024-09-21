@@ -9,12 +9,12 @@ port: 8095
 description: >-
  Music Assistant is a music library manager for your offline and online music sources which can easily stream your favourite music to a wide range of supported players and be combined with the power of Home Assistant!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Music Assistant
+website: https://music-assistant.io/
+submitter: Retrac
+submission: https://github.com/retrac-umbrel/retrac-music-assistant
+repo: https://github.com/retracdev/retrac-umbrel
+support: https://github.com/retracdev/retrac-umbrel
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
