@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  tor-browser:
+    image: kasmweb/tor-browser
+    ports:
+      - "8080:6080" # Change the host port if needed
+    volumes:
+      - ./downloads:/home/kasm-user/Downloads # Optional: To persist downloads
