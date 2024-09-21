@@ -16,9 +16,7 @@ submission: https://github.com/retrac-umbrel/retrac-music-assistant
 repo: https://github.com/retracdev/retrac-umbrel
 support: https://github.com/retracdev/retrac-umbrel
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://imgur.com/a/tLv6P2B
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
