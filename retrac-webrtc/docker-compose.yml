@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  coturn:
+    image: instrumentisto/coturn
+    container_name: coturn
+    restart: unless-stopped
+    environment:
+      - TURN_PORT=3478         # Default TURN/STUN port
+      - TURNS_PORT=5349        # Secure TURN port (for TLS)
+      - REALM=yourdomain.com   # Replace with your domain
+      - LISTEN_ON_PUBLIC_IP=1  # Set to 1 to enable listening on public IP
+      - EXTERNAL_IP=your_public_ip  # Replace with your server's public IP
+    ports:
+      - "3478:3478/udp"   # TURN/STUN UDP
+      - "3478:3478/tcp"   # TURN/STUN TCP
+      - "5349:5349/tcp"   # Secure TURN (TLS)
+    volumes:
+      - ./turnserver.conf:/etc/turnserver.conf  # Optional: custom TURN server config
