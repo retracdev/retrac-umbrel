@@ -1,1 +1,25 @@
+manifestVersion: 1
+id: retrac-webrtc
+name: WebRTC
+tagline: WebRTC on Umbrel
+icon: https://e7.pngegg.com/pngimages/180/336/png-clipart-webrtc-web-browser-computer-software-announcing-text-logo.png
+category: Home Automation
+version: "1.0.0"
+port: 8095
+description: >-
+ WebRTC
 
+developer: WebRTC
+website: https://webrtc.org
+submitter: Retrac
+submission: https://github.com/retrac-umbrel/retrac-webrtc
+repo: https://github.com/retracdev/retrac-umbrel
+support: https://github.com/retracdev/retrac-umbrel
+gallery:
+  - 
+releaseNotes: >-
+  To see whats new, head to the WebRTC website.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
